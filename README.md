@@ -1,4 +1,4 @@
-# Python代码仓库模板
+# 飞桨常规赛：点击反欺诈预测- 8月第6名方案
 
 ![GitHub forks](https://img.shields.io/github/forks/GT-ZhangAcer/PythonRepository-Template?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/GT-ZhangAcer/PythonRepository-Template?style=for-the-badge) 
 
